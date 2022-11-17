@@ -1,4 +1,4 @@
-![logo](https://github.com/Atulya-Maurya/Atulya-Maurya/blob/main/bgvid.mp4)
+![logo](https://github.com/Atulya-Maurya/Atulya-Maurya/blob/main/git.gif)
 <h1 align="center">Hi 👋, I'm Atulya Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://webstockreview.net/images/clipart-dinosaur-dinosaur-extinction-18.gif">
